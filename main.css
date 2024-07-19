@@ -1,0 +1,18 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    background-image: url("git&github.webp");
+    background-size: 35px;
+}
+
+h1 {
+    color: red;
+    text-shadow: -1px 0px 20px red;
+}
+
+p {
+    margin: auto 5%;
+    color: blue;
+    background-color: #faebd7e8;
+    border-radius: 10%;
+}
